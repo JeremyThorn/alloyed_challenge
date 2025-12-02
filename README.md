@@ -4,8 +4,8 @@
 2. Clone this repo and cd into it:
 
    ```bash
-   git clone <REPO_URL>
-   cd <REPO_DIR>
+   git clone git@github.com:JeremyThorn/alloyed_challenge.git
+   cd alloyed_challenge
    ```
 3. Sync dependencies:
   ```bash
