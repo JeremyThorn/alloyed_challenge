@@ -8,11 +8,13 @@
    cd <REPO_DIR>
    ```
 3. Sync dependencies:
-  ```uv sync
+  ```bash
+  uv sync
   ```
   
 4. Start jupyter:
-  ```uv run jupyter notebook
+  ```bash
+  uv run jupyter notebook
   ```
   
 5. Open ```notebooks/my_notebook.ipynb``` and select the ```Python (uv)``` kernel if needed.
